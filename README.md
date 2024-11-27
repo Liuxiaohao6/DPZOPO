@@ -7,6 +7,13 @@ We conduct extensive empirical analysis on both encoder-only masked language mod
 <p>
   <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/roberta-acc.png?raw=true" alt="Fig" width="100%"/>
   <em>
-    Experiments on RoBERTAa-large. We report zero-shot, DPZero \cite{zhang2024dpzero}, DP-ZOPO, DP-ZOSO and DP full-parameter fine-tuning (FT) and DP prefix-tuning (FT-prefix).
+    Accuracy on RoBERTAa-large between zero-shot, DPZero, DP-ZOPO, DP-ZOSO, DP full-parameter fine-tuning (FT) and DP prefix-tuning (FT-prefix).
+  </em>
+</p>
+
+<p>
+  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/roberta-acc.png?raw=true" alt="Fig" width="100%"/>
+  <em>
+    Accuracy on RoBERTAa-large between zero-shot, DPZero, DP-ZOPO, DP-ZOSO, DP full-parameter fine-tuning (FT) and DP prefix-tuning (FT-prefix).
   </em>
 </p>
