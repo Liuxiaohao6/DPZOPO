@@ -12,8 +12,8 @@ We conduct extensive empirical analysis on both encoder-only masked language mod
 </p>
 
 <p>
-  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/roberta-acc.png?raw=true" alt="Fig" width="100%"/>
+  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/memory.png?raw=true" alt="Fig" width="100%"/>
   <em>
-    Accuracy on RoBERTAa-large between zero-shot, DPZero, DP-ZOPO, DP-ZOSO, DP full-parameter fine-tuning (FT) and DP prefix-tuning (FT-prefix).
+    GPU memory usage comparison between zero-shot, in-context learning (ICL), DPZero, DP-ZOPO, DP-ZOSO, DP full-parameter fine-tuning (FT) and DP prefix-tuning (FT-prefix).
   </em>
 </p>
