@@ -5,8 +5,8 @@ In this paper, we investigate the potential of DP zeroth-order methods for LLM p
 We conduct extensive empirical analysis on both encoder-only masked language model and decoder-only autoregressive language model, achieving impressive results in terms of scalability and utility regardless of the class of tasks.
 
 <p>
-  <img src="https://github.com/Liuxiaohao6/DPZOPO/main/assets/roberta-acc.png?raw=true" alt="Fig" width="100%"/>
+  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/roberta-acc.png?raw=true" alt="Fig" width="100%"/>
   <em>
-    
+    Experiments on RoBERTAa-large. We report zero-shot, DPZero \cite{zhang2024dpzero}, DP-ZOPO, DP-ZOSO and DP full-parameter fine-tuning (FT) and DP prefix-tuning (FT-prefix).
   </em>
 </p>
