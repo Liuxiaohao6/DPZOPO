@@ -5,7 +5,7 @@ In this paper, we investigate the potential of DP zeroth-order methods for LLM p
 We conduct extensive empirical analysis on both encoder-only masked language model and decoder-only autoregressive language model, achieving impressive results in terms of scalability and utility regardless of the class of tasks.
 
 <p>
-  <img src="https://github.com/Liuxiaohao6/DPZOPO/assets/roberta-acc.png">
+  <img src="https://github.com/Liuxiaohao6/DPZOPO/assets/roberta-acc.png" alt="Fig" width="100%"/>
   <em>
     
   </em>
