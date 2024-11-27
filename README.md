@@ -5,15 +5,15 @@ In this paper, we investigate the potential of DP zeroth-order methods for LLM p
 We conduct extensive empirical analysis on both encoder-only masked language model and decoder-only autoregressive language model, achieving impressive results in terms of scalability and utility regardless of the class of tasks.
 
 <p>
-  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/roberta-acc.png?raw=true" alt="Fig" width="100%"/>
+  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/roberta-acc.png?raw=true" align="middle" alt="Fig" width="100%"/>
   <em>
     Accuracy on RoBERTAa-large between zero-shot, DP full-parameter fine-tuning (FT), DP prefix-tuning (FT-prefix), DPZero, DP-ZOSO and DP-ZOPO, .
   </em>
 </p>
 
 <p>
-  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/memory.png?raw=true" alt="Fig" width="80%"/>
+  <img src="https://github.com/Liuxiaohao6/DPZOPO/blob/main/assets/memory.png?raw=true" align="middle" alt="Fig" width="100%"/>
   <em>
-    GPU memory usage comparison between zero-shot, in-context learning (ICL), DP full-parameter fine-tuning (FT), DP prefix-tuning (FT-prefix), DP-ZOSO, DP-ZOPO.
+    GPU memory usage and running time comparison between zero-shot, in-context learning (ICL), DP full-parameter fine-tuning (FT), DP prefix-tuning (FT-prefix), DP-ZOSO, DP-ZOPO.
   </em>
 </p>
