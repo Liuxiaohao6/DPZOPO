@@ -17,3 +17,15 @@ We conduct extensive empirical analysis on both encoder-only masked language mod
     GPU memory usage and running time comparison between zero-shot, in-context learning (ICL), DP full-parameter fine-tuning (FT), DP prefix-tuning (FT-prefix), DP-ZOSO, DP-ZOPO.
   </em>
 </p>
+
+
+## Citation
+
+```bibtex
+@article{liu2024differentially,
+  title={Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning},
+  author={Liu, Zhihao and Lou, Jian and Bao, Wenjie and Li, Bo and Qin, Zhan and Ren, Kui},
+  journal={arXiv preprint arXiv:2402.07818},
+  year={2024}
+}
+```
