@@ -26,7 +26,8 @@ We conduct extensive empirical analysis on both encoder-only masked language mod
 @article{liu2024differentially,
   title={Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning},
   author={Liu, Zhihao and Lou, Jian and Bao, Wenjie and Li, Bo and Qin, Zhan and Ren, Kui},
-  journal={arXiv preprint arXiv:2402.07818},
-  year={2024}
+  booktitle={32th Annual Network and Distributed System Security Symposium, NDSS 2025},
+  year={2025},
+  organization={The Internet Society}
 }
 ```
