@@ -1,6 +1,5 @@
 # DPZOPO
-This is the implementation for the paper [Differentially Private Zeroth-Order Methods for Scalable Large Language Model Fine-tuning](https://arxiv.org/pdf/2402.07818), which is accepted by **Network and Distributed
-System Security (NDSS) Symposium 2025**.
+This is the implementation for the paper [Differentially Private Zeroth-Order Methods for Scalable Large Language Model Fine-tuning](https://arxiv.org/pdf/2402.07818).
 In this paper, we investigate the potential of DP zeroth-order methods for LLM pretraining, which avoids the scalability bottleneck of SGD by approximating the gradient with the more efficient zeroth-order gradient. We propose DP zeroth-order stagewise method (**DP-ZOSO**) and DP zeroth-order stagewise pruning method (**DP-ZOPO**) with several pruning strategies and undertake a comparative analysis of these strategies.
 
 We conduct extensive empirical analysis on both encoder-only masked language model and decoder-only autoregressive language model, achieving impressive results in terms of scalability and utility regardless of the class of tasks.
@@ -20,14 +19,4 @@ We conduct extensive empirical analysis on both encoder-only masked language mod
 </p>
 
 
-## Citation
 
-```bibtex
-@article{liu2024differentially,
-  title={Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning},
-  author={Liu, Zhihao and Lou, Jian and Bao, Wenjie and Li, Bo and Qin, Zhan and Ren, Kui},
-  booktitle={32th Annual Network and Distributed System Security Symposium, NDSS 2025},
-  year={2025},
-  organization={The Internet Society}
-}
-```
